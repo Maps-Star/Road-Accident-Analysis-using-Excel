@@ -1,8 +1,8 @@
 I created an excel dashboard to analyze Road accidents data for different stakeholders such as Ministry of Transport, Transport Department, Police Force, Road Safety, Transport 
 Operators, the General public and the media etc. The project involved cleaning and transformation of data using power query, Data processing, adding important new columns, using Pivot tables and charts for analyzing data, formulas, formatting it to create an insightful and interactive dashboard. 
 
-MAIN KPIs:
- *Primary KPIs-* This involved the severity of casualties for both 2021 and 2022.
+MAIN KPIs: This involved the severity of casualties for both 2021 and 2022.
+
 ➡️Slight Casualties: 351,436
 ➡️Casualties by Car: 333,485 
 ➡️Serious Casualties: 59,312 
@@ -18,7 +18,8 @@ Filters used:
 *Year
 *Area/Location
 
-Highlights:
+Key Highlights:
+
 #Highest casualties were recorded on Cars both in rural and urban areas with Slight casualties of 351k being recorded as the highest accident severity, followed by serious casualties (59.3k and Fatal casualties as the lowest(7.1k). This was mainly in dry road surfaces.
 
 #Single carriage way road type also recorded the highest casualties of 309.7k, this may be due to motorists not exercising courtesy to other road users.

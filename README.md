@@ -23,6 +23,7 @@ Highlights:
 #Single carriage way road type also recorded the highest casualties of 309.7k, this may be due to motorists not exercising courtesy to other road users.
 #More casualties were recorded in the urban areas during daylight as compared to night time, this could be due to overspeeding and other related factors.
 #There is a reduction in the number of casualties recorded in 2022 as compared to the prior year, this clearly indicates that motorists had become more careful by adhering to traffic rules. 
+
 Key Takeaways: Using Pivot tables, Power query for data ceaning and transformation, charts and statistical formulas played a huge role for quicker analysis.
 
 

@@ -20,13 +20,14 @@ Filters used:
 
 Highlights:
 #Highest casualties were recorded on Cars both in rural and urban areas with Slight casualties of 351k being recorded as the highest accident severity, followed by serious casualties (59.3k and Fatal casualties as the lowest(7.1k). This was mainly in dry road surfaces.
+
 #Single carriage way road type also recorded the highest casualties of 309.7k, this may be due to motorists not exercising courtesy to other road users.
+
 #More casualties were recorded in the urban areas during daylight as compared to night time, this could be due to overspeeding and other related factors.
+
 #There is a reduction in the number of casualties recorded in 2022 as compared to the prior year, this clearly indicates that motorists had become more careful by adhering to traffic rules. 
 
 Key Takeaways: Using Pivot tables, Power query for data ceaning and transformation, charts and statistical formulas played a huge role for quicker analysis.
-
-
 
 
 
